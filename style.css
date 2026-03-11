@@ -155,7 +155,7 @@
     width: 0;
     height: 2px;
     top: 60px;
-    left: 500px;
+    left: 40%;
     opacity: 0;
     background-color: black;
     transition: all 0.4s ease;
@@ -259,7 +259,7 @@
     width: 0;
     height: 2px;
     top: 60px;
-    left: 0;
+    left: 39.3%;
     opacity: 0;
     background-color: black;
     transition: all 0.4s ease;
